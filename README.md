@@ -1,6 +1,3 @@
 # myliterarylabyrinth.github.io
-# myliterarylabyrinth.github.io
-# myliterarylabyrinth.github.io
-# myliterarylabyrinth.github.io
-# myliterarylabyrinth.github.io
-# myliterarylabyrinth.github.io
+
+my blog
